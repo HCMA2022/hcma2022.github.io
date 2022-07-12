@@ -32,7 +32,9 @@ var cbpAnimatedHeader = (function() {
 		}
 		}
 		else {
+			if(header){
 			classie.remove( header, 'navbar-shrink' );
+		}
 		}
 		didScroll = false;
 	}
