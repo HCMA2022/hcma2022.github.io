@@ -1,12 +1,12 @@
-#- title: Prof. Yihong Gong
-  #name: Yihong Gong
-  #subtitle: Xi’an Jiaotong University
-  #thumbnail: YihongGong.jpeg
-#- title: Prof. Junwei Han
-  #name: Junwei Han
-  #subtitle: Northwestern Polytechnical University
-  #thumbnail: JunweiHan.jpeg
-#- title: Dr. Chuang Gan
-  #name: Chuang Gan
-  #subtitle: MIT-IBM Watson AI Lab
-  #thumbnail: chuanggan.jpg
+- title: Prof. Cewu Lu
+  name: Cewu Lu
+  subtitle: Shanghai Jiao Tong University
+  thumbnail: CewuLu.jpg
+- title: Dr. Basura Fernando
+  name: Basura Fernando
+  subtitle: Institute of High Performance Computing (IHPC) and Centre for Frontier AI Research (CFAR) of Agency for Science, Technology and Research (A*STAR)
+  thumbnail: BasuraFernando.jpg
+- title: Prof. Yebin Liu
+  name: Yebin Liu
+  subtitle: Tsinghua University
+  thumbnail: YebinLiu.png
